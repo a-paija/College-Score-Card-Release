@@ -3,7 +3,7 @@
 
 <h2>Description</h2>
 
-This project investigates whether the release of the **College Scorecard** in September 2015 influenced student interest in high-earning colleges relative to low-earning ones. Google Trends data is used as a proxy for student search interest. The analysis uses a **Difference-in-Differences (DiD) approach** to visualize this effect.
+[This project](https://github.com/a-paija/College-Score-Card-Release/blob/main/College%20Scorecard%20Analysis.html) investigates whether the release of the **College Scorecard** in September 2015 influenced student interest in high-earning colleges relative to low-earning ones. Google Trends data is used as a proxy for student search interest. The analysis uses a **Difference-in-Differences (DiD) approach** to visualize this effect.
 
 ## Analysis Workflow
 
