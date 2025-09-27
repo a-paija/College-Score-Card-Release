@@ -28,6 +28,8 @@ This project investigates whether the release of the **College Scorecard** in Se
 
 3. Findings
 
+![DiD Model](https://github.com/a-paija/College-Score-Card-Release/blob/main/DiD%20Model.png)
+
  - Pre-trends: Both groups show similar search interest before September 2015.
 
  - Post-release: Relative search interest in high-earning colleges decreased.
