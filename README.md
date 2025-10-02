@@ -40,13 +40,13 @@
 
 <h2>Insights</h2>
 
-1. Awareness vs. Reinforcement
+1. <b>Awareness vs. Reinforcement</b>
 
   - High-earning schools were likely already well-known brands (Ivies, flagships, elite privates). The Scorecard might have just reinforced that, so marginal search interest didn’t grow.
   - Low-earning schools may have gained visibility if they performed well on other Scorecard metrics (completion, affordability, diversity).
 
 
-2. Market Dynamics in Higher Education
+2. <b>Market Dynamics in Higher Education</b>
 
   - A small but significant behavioral shift (-0.061 SD) at scale could alter application patterns, enrollment demand, and revenue flows.
   - If students shift attention toward lower-earning but affordable schools, elite schools might see less incremental demand, while regional/state schools gain traction.
@@ -59,11 +59,11 @@
 
 2.  Improve usability of Scorecard so students interpret data correctly.
 
-For High-Earning Colleges (Elites):
+<b>For High-Earning Colleges (Elites):</b>
 
  - Double down on communicating career outcomes + scholarships, countering perceptions of unaffordability.
 
-For Lower-Earning Colleges (Regionals/Community):
+<b>For Lower-Earning Colleges (Regionals/Community):</b>
 
  - Highlight affordability, accessibility, and unique strengths — Scorecard data may help reposition them positively.
 
