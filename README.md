@@ -35,3 +35,35 @@
  - Post-release: Relative search interest in high-earning colleges decreased.
 
  - Possible explanations: increased awareness of selectivity/cost, revealed attractive features of lower-earning schools, or high-earning schools already well-known.
+
+---
+
+<h2>Insights</h2>
+
+1. Awareness vs. Reinforcement
+
+  - High-earning schools were likely already well-known brands (Ivies, flagships, elite privates). The Scorecard might have just reinforced that, so marginal search interest didn’t grow.
+  - Low-earning schools may have gained visibility if they performed well on other Scorecard metrics (completion, affordability, diversity).
+
+
+2. Market Dynamics in Higher Education
+
+  - A small but significant behavioral shift (-0.061 SD) at scale could alter application patterns, enrollment demand, and revenue flows.
+  - If students shift attention toward lower-earning but affordable schools, elite schools might see less incremental demand, while regional/state schools gain traction.
+    
+---
+
+<h2>Recommendations</h2>
+
+1.  Emphasize value metrics (earnings relative to cost, debt repayment rates), not just raw earnings.
+
+2.  Improve usability of Scorecard so students interpret data correctly.
+
+For High-Earning Colleges (Elites):
+
+ - Double down on communicating career outcomes + scholarships, countering perceptions of unaffordability.
+
+For Lower-Earning Colleges (Regionals/Community):
+
+ - Highlight affordability, accessibility, and unique strengths — Scorecard data may help reposition them positively.
+
